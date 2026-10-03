@@ -1,36 +1,19 @@
-# 示例文件说明
+# Draft fixtures / 草稿示例
 
-本文件夹包含 3 篇关于 AI Agent 的草稿，可用于测试 merge-drafts 技能。
+These are synthetic drafts for merge practice, not verified industry facts.
+Claims, forecasts and percentages have no supplied external evidence. A merge
+should preserve their status, rather than turn them into verified conclusions.
 
-## 草稿内容
+| File | Distinct material |
+|---|---|
+| draft1.md | Overview, use cases, forecast |
+| draft2.md | Capabilities, challenges, industry table |
+| draft3.md | Implementation options, illustrative cases, cost tradeoffs |
 
-| 文件 | 特点 |
-|------|------|
-| draft1.md | 概述性强，结构清晰，但内容较简略 |
-| draft2.md | 技术细节丰富，包含表格，但篇幅较长 |
-| draft3.md | 实践案例多，成本分析详细 |
+Request: “Merge these three drafts into one concise article, keeping useful
+contributions and marking unsupported claims.” Check actual source coverage,
+duplication, factual qualifiers and coherence; do not score by word count.
 
-## 使用方法
-
-将这三份草稿合并：
-
-```
-用户：把这3篇关于AI Agent的稿子合并成一篇
-```
-
-Skill 会：
-1. 评估每份稿件的质量
-2. 检测观点冲突
-3. 选择最佳基础稿
-4. 融合各稿亮点
-5. 输出合并报告和最终文章
-
-## 预期输出
-
-合并后的文章应包含：
-- 清晰的引言
-- 完整的定义说明
-- 技术特点与核心能力
-- 实践案例
-- 发展趋势与未来展望
-- 结论
+这些是合成练习稿，不是已核验行业资料。原稿中的预测与百分比缺少外部证据；
+合并后应保留其设想或待核验状态。根据用户的受众和篇幅要求选择结构，
+保留三稿的有效贡献，去重并说明实质取舍，不必固定使用一套章节或评分表。
